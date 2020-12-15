@@ -4,4 +4,4 @@
 
 [📘 工作笔记](https://github.com/any86/Notes/issues)
 
-[![any86's github stats](https://github-readme-stats.vercel.app/api?username=any86&show_icons=true&hide_border=true)](https://github.com/any86/)
+<!-- [![any86's github stats](https://github-readme-stats.vercel.app/api?username=any86&show_icons=true&hide_border=true)](https://github.com/any86/) -->
