@@ -8,7 +8,7 @@
 
 [:zap: 一键mock](https://any86.github.io/be-mock)
 
-[🌱 vue3警告解决](https://github.com/any86/vue-error/issues)
+[🌱 vue3报错列表](https://github.com/any86/vue-error/issues)
 
 
 
