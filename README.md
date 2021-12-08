@@ -9,7 +9,7 @@
 [:zap: 一键mock](https://any86.github.io/be-mock)
 
 [🌱 vue3报错列表](https://github.com/any86/vue-error/issues)
-
+[🧁 白话typescript更新日志](https://github.com/any86/ts-log-cn)
 
 
 
