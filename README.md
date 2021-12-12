@@ -10,7 +10,7 @@
 
 [🌱 vue3报错列表](https://github.com/any86/vue-error/issues)
 
-[🧁 白话typescript更新日志](https://github.com/any86/ts-log-cn)
+[🧁 ts 更新日志速读, 持续更新...](https://github.com/any86/ts-log-cn)
 
 
 
