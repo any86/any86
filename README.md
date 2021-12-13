@@ -4,8 +4,6 @@
 
 [📘 工作笔记](https://github.com/any86/Notes/issues)
 
-[🦕 正则大全](https://any86.github.io/any-rule/)
-
 [:zap: 一键mock](https://any86.github.io/be-mock)
 
 [🌱 vue3报错列表](https://github.com/any86/vue-error/issues)
